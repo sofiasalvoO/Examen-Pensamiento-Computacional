@@ -3,7 +3,6 @@ proceso de creación examen
 # GRID COLLAPSE
 
 ## Autor
-
 Sofía Salvo
 
 ![etapa0](Imagenes/etapa0.png)
