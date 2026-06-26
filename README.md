@@ -4,7 +4,6 @@ proceso de creación examen
 
 ## Autor
 Sofía Salvo
-
 ![etapa0](Imagenes/etapa0.png)
 
 [P5js](https://editor.p5js.org/sofia.salvo/sketches/5ELYhGNrp)
@@ -165,8 +164,7 @@ Entregar una experiencia auditiva cercana a la de un videojuego buscando sonidos
 Se realizaron pruebas de composición, color, tamaño de figuras, organización espacial y retroalimentación visual.
 
 ## Capturas
-
-(Incluir capturas del proceso de desarrollo y versiones previas del proyecto).
+![fondo](Imagenes/fondo.png)
 
 ---
 
