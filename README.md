@@ -164,7 +164,17 @@ Entregar una experiencia auditiva cercana a la de un videojuego buscando sonidos
 Se realizaron pruebas de composición, color, tamaño de figuras, organización espacial y retroalimentación visual.
 
 ## Capturas
-![fondo](Imagenes/fondo.png)
+![idea](Imagenes/idea.png)
+Antes de transformar la entrega en un videojuego, el proyecto nació como una pieza de diseño editorial digital puramente contemplativa. El objetivo de este primer prototipo fue dominar la maquetación formal de la escuela Bauhaus sobre un canvas dinámico. En esta versión no existían las variables del videojuego (como el puntaje o las pantallas de fin de juego), sino que se enfocaba en la experiencia de usuario a través del movimiento armónico de las figuras con map() y la retroalimentación tonal del elemento central al detectar la proximidad del cursor con dist()
+
+![Prototipo](Imagenes/Prototipo.png)
+Como primera prueba se programó la lógica inicial a través de distintos codigos. En esta fase abstracta se validó el algoritmo de detección de colisiones con dist(), la condicional de acierto/fallo y el sistema de reubicación aleatoria del objetivo, dejando de lado la estética visual.
+
+![Prototipo2](Imagenes/Prototipo2.png)
+Se implementó un bucle for para estructurar la composición geométrica fija y se aplicó la función map() para subordinar el diámetro de los elementos gráficos a la posición vertical del cursor, ensayando con una paleta de contraste libre.
+
+![avance1](Imagenes/avance1.png)
+Finalmente se comenzo a dar forma a lo que estaria siendo el examen final incorporando tamaño de lienzo, cargando archivos, etc. Esto para comenzar con la diagramación de lo practicado.
 
 ---
 
