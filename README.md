@@ -4,6 +4,7 @@ proceso de creación examen
 
 ## Autor
 Sofía Salvo
+
 ![etapa0](Imagenes/etapa0.png)
 
 [P5js](https://editor.p5js.org/sofia.salvo/sketches/5ELYhGNrp)
@@ -165,23 +166,33 @@ Se realizaron pruebas de composición, color, tamaño de figuras, organización 
 
 ## Capturas
 ![idea](Imagenes/idea.png)
+
 Antes de transformar la entrega en un videojuego, el proyecto nació como una pieza de diseño editorial digital puramente contemplativa. El objetivo de este primer prototipo fue dominar la maquetación formal de la escuela Bauhaus sobre un canvas dinámico. En esta versión no existían las variables del videojuego (como el puntaje o las pantallas de fin de juego), sino que se enfocaba en la experiencia de usuario a través del movimiento armónico de las figuras con map() y la retroalimentación tonal del elemento central al detectar la proximidad del cursor con dist()
 
 ![Prototipo](Imagenes/Prototipo.png)
+
 Como primera prueba se programó la lógica inicial a través de distintos codigos. En esta fase abstracta se validó el algoritmo de detección de colisiones con dist(), la condicional de acierto/fallo y el sistema de reubicación aleatoria del objetivo, dejando de lado la estética visual.
 
 ![Prototipo2](Imagenes/Prototipo2.png)
+
 Se implementó un bucle for para estructurar la composición geométrica fija y se aplicó la función map() para subordinar el diámetro de los elementos gráficos a la posición vertical del cursor, ensayando con una paleta de contraste libre.
 
 ![avance1](Imagenes/avance1.png)
+
 Finalmente se comenzo a dar forma a lo que estaria siendo el examen final incorporando tamaño de lienzo, cargando archivos, etc. Esto para comenzar con la diagramación de lo practicado.
+
+---
+
+# Diagrama de flujo
+
+![Diagrama](Imagenes/Diagrama.png)
 
 ---
 
 # Reflexión final
 
-Durante el desarrollo del proyecto fue necesario organizar la lógica del sistema mediante estados diferenciados y funciones específicas para cada etapa.
+Durante el desarrollo de este proyecto, logré adquirir el dominio de nuevas funciones y herramientas de programación creativa. Asimismo, fue un desafío técnico comprender la correcta gestión e integración de archivos multimedia dentro del entorno de desarrollo.
 
-Uno de los principales desafíos fue equilibrar la simplicidad visual característica de la Bauhaus con la creación de una experiencia interactiva clara y dinámica.
+Mi mayor complejidad fue precisamente, en la manipulación de dichos recursos de audio e imagen, así como en el reto de relacionar un movimiento de diseño como la Bauhaus con las dinámicas de un videojuego; un proceso que resultó siendo sumamente entretenido de crear.
 
-A través del uso de variables, condicionales, bucles, eventos, multimedia e interacción, fue posible construir un sistema computacional coherente que transforma principios de diseño histórico en una experiencia digital contemporánea.
+A pesar de las dificultades técnicas que tuve en la producción, logré cumplir con éxito cada uno de los requerimientos clave de la entrega. El resultado final es satisfactorio, destacando el gran valor de crear piezas de diseño editorial capaces de interactuar directamente con el usuario.
