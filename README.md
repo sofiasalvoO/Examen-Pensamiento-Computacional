@@ -134,19 +134,19 @@ En el estado final se activa una animación de partículas y un efecto sonoro. P
 
 ## Imagen
 
-fondo.png
+![fondo](Imagenes/fondo.png)
 
 Función:
-Aporta contexto visual y estructura gráfica a la composición.
+Aporta estructura grafica a la composicion y contexto visual, dando textura a el lienzo.
 
 ## Sonidos
 
-inicio.mp3
+🎵 [Reproducir sonido](Sonidos/inicio.mp3)
 
-sonido.mp3
+🎵 [Reproducir sonido](Sonidos/sonido.mp3)
 
 Función:
-Entregar retroalimentación auditiva durante cambios de estado e interacciones.
+Entregar una experiencia auditiva cercana a la de un videojuego buscando sonidos parecidos a estos y entregar retroalimentación auditiva durante cambios de estado e interacciones.
 
 ---
 
