@@ -101,6 +101,7 @@ La simplificación visual mediante elementos geométricos esenciales y estructur
 
 ### Estado 2: Pantalla final y explosion visual
 
+![etapa2.0](Imagenes/etapa2.0.png)
 ![etapa2](Imagenes/etapa2.png)
 
 ## Eventos
