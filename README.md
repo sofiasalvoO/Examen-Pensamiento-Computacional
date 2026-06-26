@@ -91,17 +91,17 @@ La simplificación visual mediante elementos geométricos esenciales y estructur
 
 ## Estados
 
-### Estado 0
+### Estado 0: Pantalla de inicio
 
-Pantalla de inicio.
+![etapa0](Imagenes/etapa0.png)
 
-### Estado 1
+### Estado 1: Juego interactivo
 
-Juego interactivo.
+![etapa1](Imagenes/etapa1.png)
 
-### Estado 2
+### Estado 2: Pantalla final y explosion visual
 
-Pantalla final y explosión visual.
+![etapa2](Imagenes/etapa2.png)
 
 ## Eventos
 
