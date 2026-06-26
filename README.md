@@ -55,7 +55,8 @@ Es un minijuego interactivo donde el usuario debe encontrar y seleccionar correc
 Explorar cómo los principios visuales de la Bauhaus pueden transformarse en un sistema computacional interactivo, recreando un estilo de videojuego y creando una experiencia para el usuario
 
 ## Referente de diseño: Bauhaus
-
+![bauhausdesign](Imagenes/bauhausdesign.jpeg)
+![bauhausafiche](Imagenes/bauhausafiche.jpeg)
 
 ## Referentes visuales
 
