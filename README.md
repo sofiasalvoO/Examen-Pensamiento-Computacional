@@ -1,6 +1,6 @@
 # Examen-Pensamiento-Computacional
 proceso de creación examen
-# BAUHAUS GRID
+# GRID COLLAPSE
 
 ## Autor
 
@@ -11,7 +11,7 @@ Sofía Salvo
 
 # Descripción general
 
-BAUHAUS GRID es un sistema visual interactivo desarrollado en p5.js inspirado en los principios de la Bauhaus. El proyecto utiliza formas geométricas simples, una retícula estructurada y una paleta de colores primarios para construir una experiencia interactiva basada en la precisión visual y la toma de decisiones del usuario.
+GRID COLLAPSE es un sistema visual interactivo desarrollado en p5.js inspirado en los principios de la Bauhaus. El proyecto utiliza formas geométricas simples, una retícula estructurada y una paleta de colores primarios que son utilizados en la bauhau, para construir una experiencia interactiva basada en la precisión visual y la toma de decisiones del usuario.
 
 El sistema se compone de tres estados: una pantalla de inicio, una experiencia principal de interacción y una pantalla final. A través del uso del mouse y el teclado, el usuario modifica el comportamiento del sistema y genera respuestas visuales y sonoras.
 
@@ -21,7 +21,7 @@ El sistema se compone de tres estados: una pantalla de inicio, una experiencia p
 
 ## ¿Qué es el proyecto?
 
-Es un minijuego interactivo donde el usuario debe encontrar y seleccionar correctamente un objetivo dentro de una composición inspirada en la Bauhaus.
+Es un minijuego interactivo donde el usuario debe encontrar y seleccionar correctamente un objetivo dentro de una composición inspirada en la Bauhaus. No solo funcionando como algo estetico sino que tambien se utilizan habilidades  de coordinación ojo-mano, evalúa tu capacidad para mantener la concentración y filtrar distracciones con el fin de reaccionar solo cuando el objetivo aparece en pantalla, siendo una excelente práctica para el cerebro.
 
 ## ¿Qué se ve en pantalla?
 
@@ -35,15 +35,15 @@ Es un minijuego interactivo donde el usuario debe encontrar y seleccionar correc
 ## Inputs
 
 * Tecla ENTER.
-* Movimiento del mouse.
-* Clic del mouse.
+* Posición del mouse (mouseX, mouseY).
+* Clic del mouse (mousePressed).
 
 ## Outputs
 
-* Cambio de tamaño de elementos gráficos.
+* Cambio de tamaño de elementos gráficos: La variable reina que maneja la Máquina de Estados. Alterna entre 0, 1 y 2, asegurando que el código no se mezcle.
 * Cambio de color del objetivo.
-* Actualización del puntaje.
-* Animación final de partículas.
+* puntaje: El acumulador matemático que renderiza en la pantalla el texto "PUNTOS: " + puntaje.
+* radioExplosion: La variable geométrica que simula la física de expansión de las partículas en el tiempo al sumar + 8 en cada fotograma.
 * Reproducción de sonidos.
 
 ---
@@ -52,11 +52,10 @@ Es un minijuego interactivo donde el usuario debe encontrar y seleccionar correc
 
 ## Idea central
 
-Explorar cómo los principios visuales de la Bauhaus pueden transformarse en un sistema computacional interactivo.
+Explorar cómo los principios visuales de la Bauhaus pueden transformarse en un sistema computacional interactivo, recreando un estilo de videojuego y creando una experiencia para el usuario
 
-## Referente de diseño
+## Referente de diseño: Bauhaus
 
-Bauhaus.
 
 ## Referentes visuales
 
