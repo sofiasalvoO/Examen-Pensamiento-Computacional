@@ -6,7 +6,7 @@ proceso de creación examen
 
 Sofía Salvo
 
- ![etapa 0](Imagenes/etapa 0.png)
+![etapa-0](Imagenes/etapa-0.png)
 ---
 
 # Descripción general
